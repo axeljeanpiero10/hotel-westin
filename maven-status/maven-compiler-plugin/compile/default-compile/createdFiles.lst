@@ -1,0 +1,5 @@
+com\mycompany\hotelwestin\JakartaRestConfiguration.class
+modelo\usuario.class
+conexion\Conexion.class
+com\mycompany\hotelwestin\resources\JakartaEE8Resource.class
+modelo\usuarioDAO.class

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- En src/main/resources/META-INF/persistence.xml -->
+<persistence version="2.2">
+    <persistence-unit name="hotelwestinPU">
+        <jta-data-source>jdbc/hotelwestin</jta-data-source>
+        <properties>
+            <property name="javax.persistence.schema-generation.database.action" value="update"/>
+        </properties>
+    </persistence-unit>
+</persistence>
